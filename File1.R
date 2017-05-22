@@ -6,3 +6,6 @@ print(x)
 
 b<-c(2,3)
 print(b)
+
+C<-x+b
+
